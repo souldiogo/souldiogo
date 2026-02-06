@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right">
+<img src="https://github.com/souldiogo/souldiogo/blob/e453f0ef8cd7298d15c93953bcc79e0f34409f79/Dy.png" width="300px" align="right">
 
 ### Olá, eu sou Marcos 👋
 
