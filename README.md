@@ -2,12 +2,14 @@
 
 <p align="left"> 
   Olá, eu sou <strong>Marcos</strong> 👋<br>
-  Minha stack principal é <strong>JavaScript, Node.js e React</strong>.<br>
+  Minha stack principal é <strong>JavaScript, Node.js e PostgreSQL</strong>.<br>
   Atualmente estou estudando desenvolvimento web e criando projetos pessoais para praticar.
 </p>
 
+---
+
 <p align="left">
-  📚 Linguagens: JavaScript, Python, HTML, CSS, Postresql e R
+  📚 Linguagens: JavaScript, Python, HTML, CSS, PostgreSQL e R
 </p>
 
 <p align="left">
