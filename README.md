@@ -1,4 +1,4 @@
-<img src="https://github.com/souldiogo/souldiogo/blob/e453f0ef8cd7298d15c93953bcc79e0f34409f79/Dy.png" width="300px" align="right">
+<img src="https://github.com/souldiogo/souldiogo/blob/f73a9e4a3e08fae5ad4305fa53a3b8bbe5b5c826/freepik_br_4e0502a6-2f97-4e8c-9e64-a82dd76d2901.png" width="300px" align="right">
 
 ### Olá, eu sou Marcos 👋
 
