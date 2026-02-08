@@ -2,14 +2,6 @@
 ### Olá, eu sou Marcos 👋
 
 🚀 Sempre aprendendo e evoluindo
-
-<div align="center">
-
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=souldiogo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souldiogo&layout=compact&theme=radical)
-
-</div>
-
 💻 Minha stack principal: **JavaScript, Node.js, PostgreSQL**  
 📚 Atualmente estudando **desenvolvimento web** e criando projetos pessoais.
 
