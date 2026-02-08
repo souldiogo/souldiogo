@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent
-.com/MicaelliMedeiros
-/micaellimedeiros/master/image
-/computer-illustration.png" width="300px" align="right">
+<img src= "https://github.com/souldiogo/souldiogo/blob/4e7252087c532a958a80454861d0817d35e352e8/Artificial%20intelligence%20on%20tablet%20screen%20animated%20illustration.png" width="300px" align="right">
 
 ### Olá, eu sou Marcos 👋
 
