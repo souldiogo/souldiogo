@@ -1,4 +1,4 @@
-<img src="https://github.com/souldiogo/souldiogo/blob/16e20974a670955527d7ce3b29b0d147f124c698/Black%20and%20White%20Illustrative%20Linkedin%20Banner.png" width="150%">
+<img src="https://github.com/souldiogo/souldiogo/blob/2e9a95a06ad0091046f2cbe3080b2cb03e576bd5/Black%20and%20White%20Illustrative%20Linkedin%20Banner%20(1).png" width="150%">
 ### 
 🚀 Sempre aprendendo e evoluindo  
 📚 Atualmente estudando **desenvolvimento web** e criando projetos pessoais.
