@@ -3,10 +3,6 @@
 🚀 Sempre aprendendo e evoluindo  
 📚 Atualmente estudando **desenvolvimento web** e criando projetos pessoais.
 
-### 
-🚀 Sempre aprendendo e evoluindo  
-📚 Atualmente estudando **desenvolvimento web** e criando projetos pessoais.
-
 ---
 
 🦄 **Linguagens:**  
