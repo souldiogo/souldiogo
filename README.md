@@ -24,8 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
 </div>
 
-<div align="center"
-  💌 **Entre em contato comigo:**  
-  [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SEULINKEDIN) 
-  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
-</div>
+
+💌 **Entre em contato comigo:**  
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SEULINKEDIN) 
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
