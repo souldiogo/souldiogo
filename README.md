@@ -31,4 +31,4 @@
 💌 Contato:
 <br>
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-diogo-1b2a95377) 
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white)](mcdiogo387@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:mcdiogo387@gmail.com)
