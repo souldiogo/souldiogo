@@ -7,7 +7,7 @@
 <div align="center">
   🦄 **Linguagens:**
 </div>
-
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
@@ -20,7 +20,7 @@
 <div align="center">
   💼 **Ferramentas:**
 </div>
-  
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> 
