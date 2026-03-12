@@ -5,7 +5,7 @@
 
 ---
 <div align="center">
-  🦄 **Linguagens:**
+  💻 Linguagens:
 </div>
 <br>
 <div align="center">
@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  💼 **Ferramentas:**
+  💼 Ferramentas:
 </div>
 <br>
 <div align="center">
