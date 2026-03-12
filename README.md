@@ -1,4 +1,9 @@
-<img src="https://github.com/souldiogo/souldiogo/blob/942166d4eaf84ec6e3bd5bd6848ce1ccf634a55a/download%20(1).jpeg" width=100%">
+<img src"https://github.com/souldiogo/souldiogo/blob/942166d4eaf84ec6e3bd5bd6848ce1ccf634a55a/download%20(1).jpeg" width="100%">
+
+
+🚀 Sempre aprendendo e evoluindo  
+📚 Atualmente estudando **desenvolvimento web** e criando projetos pessoais.
+
 ### 
 🚀 Sempre aprendendo e evoluindo  
 📚 Atualmente estudando **desenvolvimento web** e criando projetos pessoais.
