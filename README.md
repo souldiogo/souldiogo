@@ -4,10 +4,11 @@
 📚 Atualmente estudando **desenvolvimento web** e criando projetos pessoais.
 
 ---
-
-
 <div align="center">
   🦄 **Linguagens:**
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> 
@@ -18,6 +19,9 @@
 
 <div align="center">
   💼 **Ferramentas:**
+</div>
+  
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> 
