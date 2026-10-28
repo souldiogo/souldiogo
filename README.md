@@ -2,13 +2,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2BE06B&center=true&vCenter=true&width=640&height=40&lines=Entender+a+fundo.;Aplicar+na+pr%C3%A1tica.;Compartilhar+o+que+aprendo.;Criando+projetos+pessoais+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Visitas](https://visitcount.itsvg.in/api?id=souldiogo&icon=0&color=1)
-![Seguidores](https://img.shields.io/github/followers/souldiogo?style=for-the-badge&logo=github&color=0E8F46&labelColor=063D2A)
-![Repositórios](https://img.shields.io/github/repos/souldiogo?style=for-the-badge&logo=github&color=0E8F46&labelColor=063D2A)
 
 </div>
 
