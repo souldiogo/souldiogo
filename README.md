@@ -1,11 +1,9 @@
 <img src="https://github.com/souldiogo/souldiogo/blob/62f326cea4f728f8a2d7296763a4a860fd600aa2/download%20(1).jpeg" width="100%">
 <div align="center">
 
-<br/>
 
-![Visitas](https://visitcount.itsvg.in/api?id=souldiogo&icon=0&color=1)
-![Seguidores](https://img.shields.io/github/followers/souldiogo?style=for-the-badge&logo=github&color=0E8F46&labelColor=063D2A)
-![Repositórios](https://img.shields.io/github/repos/souldiogo?style=for-the-badge&logo=github&color=0E8F46&labelColor=063D2A)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:063D2A,50:0E8F46,100:2BE06B&height=220&section=header&text=souldiogo&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20em%20constru%C3%A7%C3%A3o%20%7C%20Web%20%26%20Dados&descSize=20&descAlignY=60" alt="Banner souldiogo" width="100%"/>
+
 
 </div>
 
@@ -113,5 +111,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2BE06B,50:0E8F46,100:063D2A&height=120&section=footer" alt="Rodapé" width="100%"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
