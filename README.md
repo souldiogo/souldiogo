@@ -42,22 +42,6 @@
 
 ---
 
-## 🚀 Projeto em destaque
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🏋️ Fitzone</h3>
-      <p>Loja fitness fictícia com carrossel, catálogo de produtos, modal de compra e página de livros. Feita com HTML, CSS e JavaScript puros.</p>
-      <p>
-        <a href="https://souldiogo.github.io/Fitzone/"><img src="https://img.shields.io/badge/🔗_Ver_Demo-0E8F46?style=for-the-badge" alt="Demo"/></a>
-        <a href="https://github.com/souldiogo/Fitzone"><img src="https://img.shields.io/badge/Código-063D2A?style=for-the-badge&logo=github" alt="Repositório"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📊 Estatísticas do GitHub
 
