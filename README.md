@@ -46,12 +46,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=souldiogo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2BE06B&icon_color=2BE06B&text_color=C9D1D9" alt="Estatísticas"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souldiogo&layout=compact&hide_border=true&bg_color=0D1117&title_color=2BE06B&text_color=C9D1D9" alt="Linguagens mais usadas"/>
-
 <img src="https://streak-stats.demolab.com?user=souldiogo&theme=dark&hide_border=true&background=0D1117&ring=2BE06B&fire=2BE06B&currStreakLabel=2BE06B" alt="Sequência de contribuições"/>
-
 </div>
 
 ---
