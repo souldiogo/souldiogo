@@ -51,17 +51,7 @@
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=souldiogo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Troféus"/>
-
-</div>
-
----
-
-## 📫 Vamos conversar?
+<!--## 📫 Vamos conversar?
 
 <div align="center">
 
@@ -69,9 +59,8 @@
 <!-- Descomente e edite para adicionar seus contatos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seu_Nome-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
 [![E-mail](https://img.shields.io/badge/E--mail-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
--->
-
 </div>
+-->
 
 ---
 
