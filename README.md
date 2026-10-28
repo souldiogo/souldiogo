@@ -1,14 +1,123 @@
 <img src="https://github.com/souldiogo/souldiogo/blob/62f326cea4f728f8a2d7296763a4a860fd600aa2/download%20(1).jpeg" width="100%">
+<div align="center">
 
-# 💫 About Me:
-🧠 Busco entender a fundo, aplicar na prática e compartilhar o que aprendo.<br> 📌 criando projetos pessoais.
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:063D2A,50:0E8F46,100:2BE06B&height=220&section=header&text=souldiogo&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20em%20constru%C3%A7%C3%A3o%20%7C%20Web%20%26%20Dados&descSize=20&descAlignY=60" alt="Banner souldiogo" width="100%"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<a href="https://github.com/souldiogo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2BE06B&center=true&vCenter=true&width=640&height=40&lines=Entender+a+fundo.;Aplicar+na+pr%C3%A1tica.;Compartilhar+o+que+aprendo.;Criando+projetos+pessoais+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Visitas](https://visitcount.itsvg.in/api?id=souldiogo&icon=0&color=1)
+![Seguidores](https://img.shields.io/github/followers/souldiogo?style=for-the-badge&logo=github&color=0E8F46&labelColor=063D2A)
+![Repositórios](https://img.shields.io/github/repos/souldiogo?style=for-the-badge&logo=github&color=0E8F46&labelColor=063D2A)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=souldiogo&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## 💫 Sobre mim
+
+> 🧠 Busco **entender a fundo**, **aplicar na prática** e **compartilhar** o que aprendo.
+
+- 📌 Criando **projetos pessoais** para evoluir a cada commit
+- 🌱 Estudando **desenvolvimento web** e **análise de dados**
+- 🏋️ Meu primeiro projeto completo: o **[Fitzone](https://github.com/souldiogo/Fitzone)**, uma loja fitness feita com HTML, CSS e JavaScript
+- 🎯 Objetivo: transformar estudo em projetos reais
+
+---
+
+## 💻 Tech Stack
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Back-end e dados**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+**Bancos de dados**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Projeto em destaque
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🏋️ Fitzone</h3>
+      <p>Loja fitness fictícia com carrossel, catálogo de produtos, modal de compra e página de livros. Feita com HTML, CSS e JavaScript puros.</p>
+      <p>
+        <a href="https://souldiogo.github.io/Fitzone/"><img src="https://img.shields.io/badge/🔗_Ver_Demo-0E8F46?style=for-the-badge" alt="Demo"/></a>
+        <a href="https://github.com/souldiogo/Fitzone"><img src="https://img.shields.io/badge/Código-063D2A?style=for-the-badge&logo=github" alt="Repositório"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=souldiogo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2BE06B&icon_color=2BE06B&text_color=C9D1D9" alt="Estatísticas"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souldiogo&layout=compact&hide_border=true&bg_color=0D1117&title_color=2BE06B&text_color=C9D1D9" alt="Linguagens mais usadas"/>
+
+<img src="https://streak-stats.demolab.com?user=souldiogo&theme=dark&hide_border=true&background=0D1117&ring=2BE06B&fire=2BE06B&currStreakLabel=2BE06B" alt="Sequência de contribuições"/>
+
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=souldiogo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Troféus"/>
+
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-souldiogo-181717?style=for-the-badge&logo=github)](https://github.com/souldiogo)
+<!-- Descomente e edite para adicionar seus contatos:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seu_Nome-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+[![E-mail](https://img.shields.io/badge/E--mail-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+-->
+
+</div>
+
+---
+
+### ✍️ Frase dev do dia
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2BE06B,50:0E8F46,100:063D2A&height=120&section=footer" alt="Rodapé" width="100%"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
