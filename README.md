@@ -6,9 +6,6 @@
 
 ---
 ## 💫 Sobre mim
-
-> 🧠 Busco **entender a fundo**, **aplicar na prática** e **compartilhar** o que aprendo.
-
 - 📌 Criando **projetos pessoais** para evoluir a cada commit
 - 🌱 Estudando **desenvolvimento web** e **análise de dados**
 - 🎯 Objetivo: transformar estudo em projetos reais
