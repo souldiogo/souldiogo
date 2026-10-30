@@ -7,7 +7,7 @@
 ---
 ## 💫 Sobre mim
 - 📌 Criando **projetos pessoais** para evoluir a cada commit
-- 🌱 Estudando **desenvolvimento web** e **análise de dados**
+- 🌱 Estudando **desenvolvimento web**, **análise de dados** e **Inteligência Artificial**
 - 🎯 Objetivo: transformar estudo em projetos reais
 ---
 
