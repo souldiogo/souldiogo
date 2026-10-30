@@ -69,4 +69,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2BE06B,50:0E8F46,100:063D2A&height=120&section=footer" alt="Rodapé" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF,50:0E8F46,100:063D2A&height=120&section=footer" alt="Rodapé" width="100%"/>
