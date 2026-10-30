@@ -1,7 +1,7 @@
 <img src="https://github.com/souldiogo/souldiogo/blob/62f326cea4f728f8a2d7296763a4a860fd600aa2/download%20(1).jpeg" width="100%">
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=640&height=40&lines=ENTENDER+A+FUNDO.;APLICAR+NA+PR%C3%81TICA.;COMPARTILHAR+O+QUE+APRENDO.;CRIANDO+PROJETOS+PESSOAIS+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=ENTENDER+A+FUNDO.;APLICAR+NA+PR%C3%81TICA.;COMPARTILHAR+O+QUE+APRENDO.;CRIANDO+PROJETOS+PESSOAIS+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
